@@ -4,4 +4,5 @@ dist
 .env
 .env.*
 npm-debug.log*
+vite-dev*.log
 *.local
